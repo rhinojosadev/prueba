@@ -1,0 +1,11 @@
+Pasos iniciar git
+
+1) git init
+
+
+Pasos agregar archivo con nuevos cambios
+
+1) git add -A
+2) git commit -m "Aqui tu mensaje"
+3) git push 
+
